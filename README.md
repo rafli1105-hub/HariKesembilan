@@ -11,7 +11,7 @@ iReport Designer adalah alat bantu visual (GUI) untuk mendesain laporan Jasper t
 # STEPS
 INSTALL JREPORT DAN IREPORT
 1. Pilih Tools --> Plugins
-   <img width="1080" height="690" alt="Screenshot 2025-10-14 191250" src="https://github.com/user-attachments/assets/5c55601e-538f-41ef-b867-27d0c0d6edc0" />
+  <img width="1553" height="746" alt="Screenshot 2025-10-16 184303" src="https://github.com/user-attachments/assets/738b9b63-3aa2-433d-b51f-6717e9e573de" />
 
 2. Downloaded --> Add Plugins  masukkan Ireport - designer, jasperserver – plugin, jasperreport – extensions, jasperreports – components, dan org-jdesktop-layout-RELEASE65.nbm --> instal
 <img width="498" height="310" alt="image" src="https://github.com/user-attachments/assets/1ed45827-b972-4db8-8226-09499c2b4a92" />
