@@ -1,0 +1,2 @@
+Exception.MyNullPointerException
+Exception.Identifikasiangka
