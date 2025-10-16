@@ -23,4 +23,5 @@ INSTALL JREPORT DAN IREPORT
  <img width="641" height="391" alt="image" src="https://github.com/user-attachments/assets/aaa52025-ab66-4021-8abf-128b73a30225" />
 
 MENCETAK DATA MENGGUNAKAN JASPER REPORT
-<img width="1886" height="998" alt="Screenshot 2025-10-15 165755" src="https://github.com/user-attachments/assets/4e413709-faa9-47a0-b7a6-5fab49b9c5f1" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 212132" src="https://github.com/user-attachments/assets/4941933d-f2fc-40c1-a0a9-0d5ce2154d47" />
+
